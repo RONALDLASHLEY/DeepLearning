@@ -1,4 +1,4 @@
-# DeepLearningXtray
+# DeepLearningXRay
 
 Double-view CNN walkthrough: Walkthrough on how to make changes and run the pprograms that generate the 
 ..synthetic x-ray scattering images and pre-process them for deep learning training and testing, and
